@@ -1,5 +1,5 @@
 {
-  "name": "ocaml-physics-sim",
+  "name": "car-rogue",
   "version": "0.1.0",
   "sources": [
     {
@@ -22,6 +22,7 @@
   "warnings": {
     "error": "+101"
   },
+  "ppx-flags": ["ppx_test/ppx"],
   "namespace": true,
   "refmt": 3
 }
